@@ -1,2 +1,2 @@
 # Python_libraries
-NumPy, Pandas, Matplotlib, Regular Expression N
+NumPy, Pandas, Matplotlib, Regular Expression
